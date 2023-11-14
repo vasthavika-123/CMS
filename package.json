@@ -1,0 +1,21 @@
+{
+  "name": "cms",
+  "description": "Node.js (CMS) Content Management System",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/totaljs/cms"
+  },
+  "dependencies": {
+    "total4": "latest"
+  },
+  "scripts": {
+    "start": "node index.js 8000"
+  },
+  "keywords": [
+    "cms"
+  ],
+  "author": "Total.js",
+  "license":"MIT"
+}
